@@ -6,4 +6,5 @@ jango.shortcuts import render,HttpResponse
 	         def africa(request):
 		         return HttpResponse('非洲专区xxxxxxx')
 
-
+开发新功能1/2
+功能开发完毕
