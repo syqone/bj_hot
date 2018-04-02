@@ -7,3 +7,4 @@ jango.shortcuts import render,HttpResponse
 		         return HttpResponse('非洲专区')
 
 开发新功能1/2
+功能开发完毕
